@@ -1,0 +1,3 @@
+my dummy vendor
+
+my second vendor
